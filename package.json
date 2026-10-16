@@ -1,0 +1,15 @@
+{
+  "name": "rasipurampolice-portal",
+  "version": "1.0.0",
+  "description": "Official anonymous reporting gateway for rasipurampolice.in",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

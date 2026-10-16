@@ -1,0 +1,9 @@
+name = "rasipurampolice-portal"
+main = "worker.js"
+compatibility_date = "2026-10-16"
+
+# Route to bind when domain is added to Cloudflare:
+# routes = [
+#   { pattern = "rasipurampolice.in/*", zone_name = "rasipurampolice.in" },
+#   { pattern = "www.rasipurampolice.in/*", zone_name = "rasipurampolice.in" }
+# ]
